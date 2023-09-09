@@ -1,0 +1,63 @@
+https://www.youtube.com/watch?v=D0S2YOVyFUE
+RoBERTa model (BERT) in NLP explained
+
+make my selfinro more attractive to recruiters with short words
+HI myself Balendu .i'm currently doing my masters in Amrita university as a computer application student .Have good knowledge in HTML,CSS,JAVASCRIPT .Describe myself as a good team player and interested in doing projects.
+
+
+
+Hey there, recruiters! I'm Balendu, a Masters student at Amrita University, specializing in Computer Applications. Proficient in HTML, CSS, and JavaScript, I create captivating websites. A collaborative team player eager to tackle projects and make an impact. Let's connect and redefine the digital landscape together! 
+
+Vader_neg:
+vader_neu:
+vader_pos:
+vader_compound:
+roberta_neg:
+roberta_neu:
+roberta_pos:
+
+ibm
+ME@2424250kkdkkd
+
+https://www.overleaf.com/9547375197bdhdnpmdjrpj
+
+https://www.youtube.com/watch?v=exBgWAIeIeg
+https://www.youtube.com/watch?v=R9I85RhI7Cg
+
+paper report 
+https://www.overleaf.com/5798343319cskzdgrsrkmn
+
+
+front end resume
+https://www.canva.com/design/DAFnX-61KvI/QN1zXzyewE4VRKrAKm62iQ/edit04B
+
+Balendu 04B
+https://www.canva.com/design/DAFseLGnXtQ/NIFWJXQAFRCKDnsmLytQLg/edit
+
+Portfolio
+https://www.youtube.com/watch?v=oFnIe-RpkE4v
+Portfolio2
+https://www.youtube.com/watch?v=xb6WsEid8X8
+
+https://www.foundit.in/seeker/single-page-registration?from=Enggwave_Aggregator&spl=IN_Enggwave_Aggregator&WT.mc_n=olm_sk_IN_Enggwave_Aggregator&gd=1&jobid=43748361&action=apply
+
+https://www.jobsforher.com/feed
+
+
+
+
+Opinions are statements that reflects people’s perception or sentiment.In This paper we have done sentimental analysis using two major NLP models - VADER and RoBERTA using sentiment analysis.The study begins with an overview of RoBERTa regarding its pre-training and optimization enabling dynamic data collection. Similarly, the legal status of VADER is explained in terms of being based on dozens of opinions and predetermined rules. We are testing these models using two different dataset customer for evaluating the accuracy and precision of each model in predicting the sentiment of text. The results are analysed and compared to know the problems and weakness of the models.These tests include training and refinement of RoBERTa’s emotional data list model which uses transformer model to process input sequences, while VADER relies on pre-generated lexicon text.Different methods are used to compare the performance of two models and identify their strengths and weaknesses in different situations.
+
+
+
+Bridging VADER's simplicity and RoBERTa's sophistication. Embracing transformer-based approaches for accurate sentiment analysis. Essential knowledge for advanced NLP applications.
+Understanding VADER and RoBERTa's concepts.
+Recognizing the role of transformer models and attention mechanisms.
+Leveraging combined strengths for improved sentiment analysis.
+
+Comparative analysis of VADER, RoBERTa, TextBlob, and BiLSTM models
+
+Highlighted their distinct characteristics and strengths
+
+Demonstrated their ability to capture sentiments across diverse global contexts
+Enhanced sentiment analysis regarding COVID-19 news from global channels.
